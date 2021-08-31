@@ -6,7 +6,7 @@ package hbdmswap
 import (
 	"context"
 	"fmt"
-	"github.com/frankrap/huobi-api/utils"
+	"github.com/kernight/huobi-api/utils"
 	"github.com/recws-org/recws"
 	"github.com/tidwall/gjson"
 	"log"

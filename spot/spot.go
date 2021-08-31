@@ -1,7 +1,7 @@
 package spot
 
 import (
-	"github.com/frankrap/huobi-api/utils"
+	"github.com/kernight/huobi-api/utils"
 	"log"
 	"net/http"
 	"net/url"

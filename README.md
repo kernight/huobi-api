@@ -7,7 +7,7 @@ An implementation of [Huobi-DM API](https://huobiapi.github.io/docs/dm/v1/cn/) a
 
 ## Installation
 ```
-go get github.com/frankrap/huobi-api
+go get github.com/kernight/huobi-api
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ go get github.com/frankrap/huobi-api
 package main
 
 import (
-	"github.com/frankrap/huobi-api/hbdm"
+	"github.com/kernight/huobi-api/hbdm"
 	"log"
 )
 
@@ -70,7 +70,7 @@ func main() {
 package main
 
 import (
-	"github.com/frankrap/huobi-api/hbdm"
+	"github.com/kernight/huobi-api/hbdm"
 	"log"
 )
 

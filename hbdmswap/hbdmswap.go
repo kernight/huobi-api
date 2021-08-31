@@ -2,7 +2,7 @@ package hbdmswap
 
 import (
 	"fmt"
-	"github.com/frankrap/huobi-api/utils"
+	"github.com/kernight/huobi-api/utils"
 	"log"
 	"net/http"
 	"net/url"

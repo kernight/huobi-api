@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/frankrap/huobi-api/hbdm"
+	"github.com/kernight/huobi-api/hbdm"
 	"log"
 )
 

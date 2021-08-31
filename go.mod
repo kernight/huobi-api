@@ -1,4 +1,4 @@
-module github.com/frankrap/huobi-api
+module github.com/kernight/huobi-api
 
 go 1.13
 
