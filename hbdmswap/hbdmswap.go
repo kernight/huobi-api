@@ -99,7 +99,8 @@ func (c *Client) sign(reqMethod, path string, postForm *url.Values) error {
 	postForm.Set("Timestamp", time.Now().UTC().Format("2006-01-02T15:04:05"))
 	payload := fmt.Sprintf("%s\n%s\n%s\n%s",
 		reqMethod,
-		c.domain,
+		//c.domain,
+		"api.hbdm.com",
 		path,
 		postForm.Encode(),
 	)
